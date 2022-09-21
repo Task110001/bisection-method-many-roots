@@ -4,7 +4,7 @@ import numpy as np
 
 #########################################
 #
-#       Alghorithm divide by half
+#       Alghorithm bisection method
 #                                          
 ##########################################
 def f(x):
