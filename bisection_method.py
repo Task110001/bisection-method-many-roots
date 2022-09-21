@@ -59,8 +59,6 @@ y = (x - 2) * (x + 2)
 s = f(x)
 plt.plot(x, s)
 
-print(len(s))
-
 sq = []
 
 i = 0
